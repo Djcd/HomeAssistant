@@ -923,7 +923,7 @@ variables:
       {% if show_moon %}, {{moon_data}} {% endif %}
     ],
     "icon": "{{icon}}",
-    "duration": 30,
+    "duration": 10,
     "pushIcon": 2,
     "lifetime": 120,
     "weather": "{{weather}}"
